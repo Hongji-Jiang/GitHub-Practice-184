@@ -63,7 +63,7 @@
 | Kaiyi Huang       | Section 001       | Kaiy-psu            | <https://kaiy-psu.github.io/184/>|
 | Naman Malviya     | Section 001       | nzm5366             | <https://malviyanaman.github.io/STAT184_File1/> |
 | Anikate Ganju     | Section 001       | azg247              | <https://anikateganju.github.io/stat184demo/> |
-
+| Hongji Jiang      | Section 001       | hongji              | <https://hongji-jiang.github.io/Hongji-Jiang/.> |
 <br>
 
 # Integration of RStudio with Git
